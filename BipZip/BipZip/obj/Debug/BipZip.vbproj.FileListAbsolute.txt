@@ -1,0 +1,12 @@
+C:\Hafta5\BipZip\BipZip\bin\Debug\BipZip.exe.config
+C:\Hafta5\BipZip\BipZip\bin\Debug\BipZip.exe
+C:\Hafta5\BipZip\BipZip\bin\Debug\BipZip.pdb
+C:\Hafta5\BipZip\BipZip\bin\Debug\BipZip.xml
+C:\Hafta5\BipZip\BipZip\obj\Debug\BipZip.vbprojAssemblyReference.cache
+C:\Hafta5\BipZip\BipZip\obj\Debug\BipZip.BipZipFormu.resources
+C:\Hafta5\BipZip\BipZip\obj\Debug\BipZip.Resources.resources
+C:\Hafta5\BipZip\BipZip\obj\Debug\BipZip.vbproj.GenerateResource.cache
+C:\Hafta5\BipZip\BipZip\obj\Debug\BipZip.vbproj.CoreCompileInputs.cache
+C:\Hafta5\BipZip\BipZip\obj\Debug\BipZip.exe
+C:\Hafta5\BipZip\BipZip\obj\Debug\BipZip.xml
+C:\Hafta5\BipZip\BipZip\obj\Debug\BipZip.pdb
